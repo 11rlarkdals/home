@@ -1,0 +1,51 @@
+.header {
+    padding-inline: 20px;
+    height: 70px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 2px 2px rgb(220, 218, 218);
+}
+
+.logo {
+    text-transform: uppercase;
+}
+
+.big {
+   font-weight: 900;
+   font-size: 30px;
+}
+
+
+
+.nav {
+    width: 600px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 19px;
+   font-weight: 175;
+}
+.nav div {
+   padding: 10px;
+
+}
+.nav div:hover{
+    background: #000;
+    color :#fff;
+    transition: background 0.5s;
+    
+}
+
+.login {
+   border: solid 1px rgb(202, 202, 202);
+   padding: 11px 32px;
+   border-radius: 25px;
+}
+
+.login:hover{
+   transition: background 10s;
+   background: #000;
+   color: #b3faff;
+}
