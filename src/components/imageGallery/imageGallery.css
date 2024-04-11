@@ -1,0 +1,32 @@
+.gallery-wrap {
+    height: 750px;
+    max-width: 1100px;
+    /* border: solid 4px red; */
+    margin-inline: auto;
+}
+
+.gallery-head {
+    /* border: solid 4px blue; */
+    margin-top: 109px;
+    margin-bottom: 66px;
+    text-align: center;
+}
+
+.gallery-title {
+    margin-bottom: 38px;
+    font-size: 50px;
+    
+}
+
+.gallery-text {
+    font-size: 22px;
+    
+}
+
+.card-grp {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+

@@ -1,0 +1,35 @@
+.cardlayout-warp {
+    max-width: 1100px;
+    height: 500px;
+}
+
+
+.cardlayout-head{
+
+    max-width: 1100px;
+    padding-block: 100px;
+    padding-inline: 20px;
+    /* border: dashed 1px black; */
+    height: 500px;
+    text-align: center;
+    color:black
+    
+}
+
+.cardlayout-head-title {
+ font-size: 3rem;
+}
+
+.card-grp {
+    display: flex;
+    gap: 5px;
+}
+.card-grp-warp {
+    background-color: #4b4b4b;
+    height: 218px;
+}
+
+.cardlaimageyout-grp-card-image {
+    
+    height: 278px;
+}

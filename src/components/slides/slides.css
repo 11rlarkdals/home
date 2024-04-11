@@ -2,7 +2,7 @@
    height: 500px;
    background-image: url("../../images/div.png");
    background-size: cover;
-   background-position-y: 50%;
+   background-position-y: 60%;
    display: flex;
    justify-content: space-between;
    align-items: center;
@@ -105,6 +105,8 @@
 }
 
 .button {
+    display: inline-block;
+    background-color: white;
     margin-left: 7px;
     padding-inline: 2rem;
     padding-block: 4px;

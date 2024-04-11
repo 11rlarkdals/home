@@ -17,8 +17,8 @@ function Slides() {
               </div>
             </section>
             <div className="buttonGrp">
-              <button className="button">자세히 보기</button>
-              <button className="button dark">사이트 보기</button>
+              <div className="button">자세히 보기</div>
+              <div className="button dark">사이트 보기</div>
             </div>
           </div>
           <div className="pageSelcterGrp">
